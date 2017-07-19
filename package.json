@@ -1,0 +1,22 @@
+{
+  "name": "explorerhelper",
+  "version": "0.0.1",
+  "description": "解析浏览器类型",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynameisHugh/explorerHelper.git"
+  },
+  "keywords": [
+    "explorer"
+  ],
+  "author": "Hugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynameisHugh/explorerHelper/issues"
+  },
+  "homepage": "https://github.com/mynameisHugh/explorerHelper#readme"
+}
